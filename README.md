@@ -5,3 +5,5 @@
 # [Lab-05](https://colab.research.google.com/drive/1nzhY3wAeKioI8Y2cA3VVuaz2XW5RII_B#scrollTo=9cs5meWuTrtT):Ethical Foundations – Responsible AI Coding Practices
 # [Lab-06](https://colab.research.google.com/drive/1TaLIUjb6-0ZuZFkHWWy9RzS_lncq_lna#scrollTo=cbdd99b8):AI-Based Code Completion – Classes, Loops, and Conditionals
 # [Lab-07](https://colab.research.google.com/drive/1GNXuP2K2I0Nm4siByDbGpB4RrPtFz_ku#scrollTo=o--TUEF_fzkl):Error Debugging with AI: Systematic approaches to finding and fixing bugs
+# [Lab-08](https://colab.research.google.com/drive/1sRYJOdGDfsI_-OxZ7tqEuafGIXXqhpWu#scrollTo=gmxHcfbmkbsn):Test-Driven Development with AI – Generating and Working with Test Cases
+
