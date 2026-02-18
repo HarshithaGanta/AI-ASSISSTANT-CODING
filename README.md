@@ -6,4 +6,4 @@
 # [Lab-06](https://colab.research.google.com/drive/1TaLIUjb6-0ZuZFkHWWy9RzS_lncq_lna#scrollTo=cbdd99b8):AI-Based Code Completion – Classes, Loops, and Conditionals
 # [Lab-07](https://colab.research.google.com/drive/1GNXuP2K2I0Nm4siByDbGpB4RrPtFz_ku#scrollTo=o--TUEF_fzkl):Error Debugging with AI: Systematic approaches to finding and fixing bugs
 # [Lab-08](https://colab.research.google.com/drive/1sRYJOdGDfsI_-OxZ7tqEuafGIXXqhpWu#scrollTo=gmxHcfbmkbsn):Test-Driven Development with AI – Generating and Working with Test Cases
-
+# [Lab-09](https://colab.research.google.com/drive/11EBX3IVZwnesTX7bYIJxYSo4_lJNX90r#scrollTo=boTt59Rm5wTC):Documentation Generation – Automatic Documentation and Code Comments
