@@ -9,5 +9,5 @@
 # [Lab-09](https://colab.research.google.com/drive/11EBX3IVZwnesTX7bYIJxYSo4_lJNX90r#scrollTo=boTt59Rm5wTC):Documentation Generation – Automatic Documentation and Code Comments
 # [Lab-12]:Algorithms with AI Assistance – Sorting, Searching, and Optimizing Algorithms
 # [Lab-13]:Code Refactoring Using AI Assistance Improving Legacy Code for Readability, Maintainability, and Performance
-# [Lab-14]:(https://colab.research.google.com/drive/1RFWp5p5j7CJ__Qi1PPjGzrS-wxffWEoT):Web Design Application – AI-Assisted HTML/CSS/JS Generation
-# [Lab-17]:(https://colab.research.google.com/drive/1iKPpY2-C0i9ltSWbTW1asDrde9e11pOI):AI for Data Processing: Data Cleaning and Preprocessing Scripts
+# [Lab-14](https://colab.research.google.com/drive/1RFWp5p5j7CJ__Qi1PPjGzrS-wxffWEoT):Web Design Application – AI-Assisted HTML/CSS/JS Generation
+# [Lab-17](https://colab.research.google.com/drive/1iKPpY2-C0i9ltSWbTW1asDrde9e11pOI):AI for Data Processing: Data Cleaning and Preprocessing Scripts
